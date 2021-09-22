@@ -1,4 +1,5 @@
 ## Hii, my name is Malu!
+Estou quase formada em Engenharia Civil e depois de estudar programação, decidi que queria ser desenvolvedora! Atualmente estou fazendo curso do NExT na Cesar School para especializar meus conhecimentos em Backend, estou estudando Python e Java de linguagens, e Git e GitHub de Gerência de Configuração!
 
  <div>
   <a href="https://github.com/malumelo7">
@@ -7,6 +8,12 @@
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Malu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Malu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Malu-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Malu-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+
 </div>
   
   ##
